@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.75ce4147.chunk.js",
-    "main.js.map": "/static/js/main.75ce4147.chunk.js.map",
+    "main.css": "/static/css/main.84a3a72f.chunk.css",
+    "main.js": "/static/js/main.f5f11d0c.chunk.js",
+    "main.js.map": "/static/js/main.f5f11d0c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
-    "static/js/2.f175dcd4.chunk.js": "/static/js/2.f175dcd4.chunk.js",
-    "static/js/2.f175dcd4.chunk.js.map": "/static/js/2.f175dcd4.chunk.js.map",
+    "static/js/2.477660d5.chunk.js": "/static/js/2.477660d5.chunk.js",
+    "static/js/2.477660d5.chunk.js.map": "/static/js/2.477660d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e73596d6d11a999d2c735918338af5a4.js": "/precache-manifest.e73596d6d11a999d2c735918338af5a4.js",
+    "precache-manifest.5ad0e06adf28668bd8898a5f094ac4e8.js": "/precache-manifest.5ad0e06adf28668bd8898a5f094ac4e8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.f175dcd4.chunk.js.LICENSE.txt": "/static/js/2.f175dcd4.chunk.js.LICENSE.txt"
+    "static/css/main.84a3a72f.chunk.css.map": "/static/css/main.84a3a72f.chunk.css.map",
+    "static/js/2.477660d5.chunk.js.LICENSE.txt": "/static/js/2.477660d5.chunk.js.LICENSE.txt",
+    "static/media/GitHub.png": "/static/media/GitHub.cefc2023.png",
+    "static/media/favicon.ico": "/static/media/favicon.c92b85a5.ico",
+    "static/media/globe.jpg": "/static/media/globe.fc14ac68.jpg",
+    "static/media/mongodb.png": "/static/media/mongodb.3d40302b.png",
+    "static/media/node.png": "/static/media/node.e8b8f86a.png",
+    "static/media/pokemon.jpg": "/static/media/pokemon.964f132f.jpg",
+    "static/media/railways.jpg": "/static/media/railways.07efa92f.jpg",
+    "static/media/restaurant.jpg": "/static/media/restaurant.e7333e48.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
-    "static/js/2.f175dcd4.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.75ce4147.chunk.js"
+    "static/js/2.477660d5.chunk.js",
+    "static/css/main.84a3a72f.chunk.css",
+    "static/js/main.f5f11d0c.chunk.js"
   ]
 }
