@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.62d6d238.chunk.css",
-    "main.js": "/static/js/main.f5f11d0c.chunk.js",
-    "main.js.map": "/static/js/main.f5f11d0c.chunk.js.map",
+    "main.css": "/static/css/main.80a38385.chunk.css",
+    "main.js": "/static/js/main.e9275bb9.chunk.js",
+    "main.js.map": "/static/js/main.e9275bb9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
-    "static/js/2.477660d5.chunk.js": "/static/js/2.477660d5.chunk.js",
-    "static/js/2.477660d5.chunk.js.map": "/static/js/2.477660d5.chunk.js.map",
+    "static/js/2.94534d35.chunk.js": "/static/js/2.94534d35.chunk.js",
+    "static/js/2.94534d35.chunk.js.map": "/static/js/2.94534d35.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d8866430de232d965b53eb344b4d594c.js": "/precache-manifest.d8866430de232d965b53eb344b4d594c.js",
+    "precache-manifest.1db2e9a9481612e770faedafd1dee793.js": "/precache-manifest.1db2e9a9481612e770faedafd1dee793.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.62d6d238.chunk.css.map": "/static/css/main.62d6d238.chunk.css.map",
-    "static/js/2.477660d5.chunk.js.LICENSE.txt": "/static/js/2.477660d5.chunk.js.LICENSE.txt",
+    "static/css/main.80a38385.chunk.css.map": "/static/css/main.80a38385.chunk.css.map",
+    "static/js/2.94534d35.chunk.js.LICENSE.txt": "/static/js/2.94534d35.chunk.js.LICENSE.txt",
     "static/media/GitHub.png": "/static/media/GitHub.cefc2023.png",
     "static/media/favicon.ico": "/static/media/favicon.c92b85a5.ico",
     "static/media/globe.jpg": "/static/media/globe.fc14ac68.jpg",
     "static/media/mongodb.png": "/static/media/mongodb.3d40302b.png",
     "static/media/node.png": "/static/media/node.e8b8f86a.png",
+    "static/media/pingpong.jpg": "/static/media/pingpong.dfb01ba3.jpg",
     "static/media/pokemon.jpg": "/static/media/pokemon.964f132f.jpg",
     "static/media/railways.jpg": "/static/media/railways.07efa92f.jpg",
     "static/media/restaurant.jpg": "/static/media/restaurant.e7333e48.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
-    "static/js/2.477660d5.chunk.js",
-    "static/css/main.62d6d238.chunk.css",
-    "static/js/main.f5f11d0c.chunk.js"
+    "static/js/2.94534d35.chunk.js",
+    "static/css/main.80a38385.chunk.css",
+    "static/js/main.e9275bb9.chunk.js"
   ]
 }
