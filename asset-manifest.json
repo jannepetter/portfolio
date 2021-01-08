@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.80a38385.chunk.css",
-    "main.js": "/static/js/main.e9275bb9.chunk.js",
-    "main.js.map": "/static/js/main.e9275bb9.chunk.js.map",
+    "main.css": "/static/css/main.9e9994ec.chunk.css",
+    "main.js": "/static/js/main.5d7be39e.chunk.js",
+    "main.js.map": "/static/js/main.5d7be39e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
-    "static/js/2.94534d35.chunk.js": "/static/js/2.94534d35.chunk.js",
-    "static/js/2.94534d35.chunk.js.map": "/static/js/2.94534d35.chunk.js.map",
+    "static/js/2.19a5e7fe.chunk.js": "/static/js/2.19a5e7fe.chunk.js",
+    "static/js/2.19a5e7fe.chunk.js.map": "/static/js/2.19a5e7fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1db2e9a9481612e770faedafd1dee793.js": "/precache-manifest.1db2e9a9481612e770faedafd1dee793.js",
+    "precache-manifest.533afe08fbfe304e0a8d48a103da8863.js": "/precache-manifest.533afe08fbfe304e0a8d48a103da8863.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.80a38385.chunk.css.map": "/static/css/main.80a38385.chunk.css.map",
-    "static/js/2.94534d35.chunk.js.LICENSE.txt": "/static/js/2.94534d35.chunk.js.LICENSE.txt",
+    "static/css/main.9e9994ec.chunk.css.map": "/static/css/main.9e9994ec.chunk.css.map",
+    "static/js/2.19a5e7fe.chunk.js.LICENSE.txt": "/static/js/2.19a5e7fe.chunk.js.LICENSE.txt",
     "static/media/GitHub.png": "/static/media/GitHub.cefc2023.png",
     "static/media/favicon.ico": "/static/media/favicon.c92b85a5.ico",
     "static/media/globe.jpg": "/static/media/globe.fc14ac68.jpg",
     "static/media/mongodb.png": "/static/media/mongodb.3d40302b.png",
     "static/media/node.png": "/static/media/node.e8b8f86a.png",
+    "static/media/ouluinfo.jpg": "/static/media/ouluinfo.2e9d4067.jpg",
     "static/media/pingpong.jpg": "/static/media/pingpong.dfb01ba3.jpg",
     "static/media/pokemon.jpg": "/static/media/pokemon.964f132f.jpg",
     "static/media/railways.jpg": "/static/media/railways.07efa92f.jpg",
@@ -24,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
-    "static/js/2.94534d35.chunk.js",
-    "static/css/main.80a38385.chunk.css",
-    "static/js/main.e9275bb9.chunk.js"
+    "static/js/2.19a5e7fe.chunk.js",
+    "static/css/main.9e9994ec.chunk.css",
+    "static/js/main.5d7be39e.chunk.js"
   ]
 }
